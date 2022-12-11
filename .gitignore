@@ -1,0 +1,10 @@
+*~
+.gradle
+!/build/test-results/test/*.xml
+
+
+gradle-app.setting
+
+!gradle-wrapper.jar
+
+.gradletasknamecache
